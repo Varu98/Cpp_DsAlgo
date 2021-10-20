@@ -15,7 +15,7 @@ int main()
     {
         for (int j = 0; j <= 3; j++)
         {
-            if (i < j)
+            if (i > j)
                 cout << "0 \t";
             else
             {
